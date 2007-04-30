@@ -5,6 +5,7 @@ License:         GPL
 License-file:    LICENSE
 Author:          Thomas Parslow
 Maintainer:      tom@almostobsolete.net
-Build-Depends:   base
+Build-Depends:   base, haskell98
 Exposed-Modules: Data.Bloom
 ghc-options:     -Wall -O2
+extra-source-files: Tests.hs
