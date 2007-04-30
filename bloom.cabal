@@ -1,0 +1,10 @@
+Name:            bloom
+Version:         0.0
+Description:     A Bloom Filter implementation
+License:         GPL
+License-file:    LICENSE
+Author:          Thomas Parslow
+Maintainer:      tom@almostobsolete.net
+Build-Depends:   base
+Exposed-Modules: Data.Bloom
+ghc-options:     -Wall -O2
