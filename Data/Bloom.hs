@@ -1,4 +1,5 @@
 {- | 
+ Thomas Parslow (tom@almostobsolete.net)
 
  Implementation of a Bloom filter with a pure interface
 
