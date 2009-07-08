@@ -1,0 +1,9 @@
+Thomas Parslow (tom@almostobsolete.net)
+
+Implementation of a Bloom filter with a pure interface
+
+There's some useful information about bloom filters here:
+<http://www.cs.wisc.edu/~cao/papers/summary-cache/node8.html>
+
+This was written as an excercise to help me learn Haskell as well as
+about bloom filters.
